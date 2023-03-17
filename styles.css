@@ -43,8 +43,7 @@ h1{
 }
 
 .card{
-    width: 32vh;
-    height: 32vh;
+    width: 32%;
     position: relative;
     margin-bottom: 20px;
     border-radius: 10%;
